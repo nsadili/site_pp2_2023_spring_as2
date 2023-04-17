@@ -107,11 +107,10 @@ When you compile, make sure your .class files are totally isolated from the rest
                     those countries whose UN_GDP_per_capita falls in the given range </li>
             <li>Call the filterByPerCapita method to find the info about countries whose per capita gdp is in the range
                 of [40000,50000] </li>
-            <li>Save the result in a .csv file (name the file as descriptive as possible)<strong>(5 %)</strong></li>
+            <li>Save the result in a .csv file (name the file as descriptive as possible)<strong>(5 %)</strong>
+            </li>
         </ul>
-
     </li>
-
     <li>Note: in case of an invalid field name, continent, throw a meaningful exception instance and handle it back in
         main</li>
 </ul>
