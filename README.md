@@ -12,7 +12,7 @@ classes).
     <li>Country class</li>
 </ul>
 
-<h3>Task Related - Country class <strong>(25 %)</strong></h3>
+<h3>Task Related - Country class <strong>(20 %)</strong></h3>
 <p>It should have the following fields and the methods:</p>
 <p>Fields:</p>
 <ul>
@@ -121,6 +121,20 @@ When you compile, make sure your .class files are totally isolated from the rest
 Draw the class diagrams including all the classes and their associations. Add the image(s) to the project
 folder so that they are submitted to the repository as well. You may use any tool to draw the diagrams. Make sure you
 submit image format (.jpg or .png).
+
+<h4> Submission related: (5%)</h4>
+<ul>
+    <li> Record a short video not exceeding 5 minutes to explain the code
+        as well as the way users can interact with the end product
+        <ul>Show:
+            <li> main blocks of the code base</li>
+            <li> each of the features mentioned above</li>
+            <li> files that are generated (discuss either in a text editor or in an Excel sheet)</li>
+        </ul>
+    </li>
+    <li> Upload the video to YouTube and share the link by adding it to your README.md file as the first line.</li>
+    <li> Submissions without a video recording will not be graded.</li>
+</ul>
 
 <h4>Important notes:</h4>
 - Codes that do not compile and run for any reason will <strong>not be graded</strong>. Test properly before you submit
