@@ -102,7 +102,6 @@ When you compile, make sure your .class files are totally isolated from the rest
                     countries that are in the given continent</li>
             <li>Call the filterByContinent method to find the info about countries in Oceania</li>
             <li>Save the result in a .csv file (name the file as descriptive as possible)<strong>(5 %)</strong></li>
-
             <li><strong>(10 %)</strong>Define a method filterByPerCapita(List<Country> countries, Double lower, Double
                     upper) method to select
                     those countries whose UN_GDP_per_capita falls in the given range </li>
